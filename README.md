@@ -1,2 +1,2 @@
 # Wildlife-Monitor-Application
-Prototype mobile wildlife monitoring application
+A prototype of a dangerous wildlife monitoring application built using Figma for the 2022 Engineers Without Borders Challenge.
