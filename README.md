@@ -1,7 +1,7 @@
 # Wildlife-Monitor-Application
 An interactive prototype of a dangerous wildlife monitoring application built using Figma for the 2022 Engineers Without Borders Challenge.
 
-The proposed application was intended to be used by the residents of the Cairns/Port Douglas region of Northern Queensland to report and monitor for sightings of the dangerous local wildlife.
+The proposed application was intended to be used by the residents of the Cairns/Port Douglas region of Northern Queensland to report and monitor for sightings of dangerous wildlife.
 
 A full report on the proposed application was created and presented - reach out for more information :)
 
